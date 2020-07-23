@@ -383,6 +383,6 @@ pil_image.show()
 ```
 ### result
 
-![image](https://res.cloudinary.com/ddetpgs1k/image/upload/v1595481091/Screenshot_2020-07-22_at_10.11.26_PM_2_fopwyg.png)
+![image](https://res.cloudinary.com/ddetpgs1k/image/upload/v1595484884/Screenshot_2020-07-22_at_10.12.40_PM_3-min_jb7zyd.png)
 
-![image](https://res.cloudinary.com/ddetpgs1k/image/upload/v1595481616/Screenshot_2020-07-22_at_10.12.40_PM_3_niliqu.png)
+![image](https://res.cloudinary.com/ddetpgs1k/image/upload/v1595484924/Screenshot_2020-07-22_at_10.11.26_PM_2-min_qy7nq0.png)

@@ -320,6 +320,9 @@ This is not Bill gates
 
 ## identify user
 
+- for this test i have set the image of Bill Gates and Steve Jobs
+- when other than two person, it will marked as unknown person
+
 ```py
 import face_recognition
 from PIL import Image, ImageDraw
@@ -377,3 +380,6 @@ del draw
 #display image
 pil_image.show()
 ```
+### result
+![image](https://res.cloudinary.com/ddetpgs1k/image/upload/v1595481091/Screenshot_2020-07-22_at_10.11.26_PM_2_fopwyg.png)
+![image](https://res.cloudinary.com/ddetpgs1k/image/upload/v1595481616/Screenshot_2020-07-22_at_10.12.40_PM_3_niliqu.png)
